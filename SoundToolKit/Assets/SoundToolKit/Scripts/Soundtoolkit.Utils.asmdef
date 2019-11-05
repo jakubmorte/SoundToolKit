@@ -1,0 +1,10 @@
+{
+    "name": "Soundtoolkit.Utils",
+    "references": [
+        "Soundtoolkit"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
